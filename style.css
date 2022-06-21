@@ -6,7 +6,7 @@
 
 :root {
   --mobile-width: 325px;
-  --mobile-height: 670px;
+  --mobile-height: 690px;
   --mobile-radius: 25px;
   --separator-height: 500px;
   --bg: #fdf3f2;
@@ -140,6 +140,7 @@
 .cta {
   position: relative;
   margin: auto;
+  align-items: center;
   padding: 12px 18px;
   transition: all 0.2s ease;
   border: none;
@@ -153,7 +154,7 @@
   left: 0;
   display: block;
   border-radius: 50px;
-  background: #eed7d1d1;
+  background: #9b739cd1;
   width: 45px;
   height: 45px;
   transition: all 0.3s ease;
@@ -183,7 +184,7 @@
  
  .cta:hover:before {
   width: 100%;
-  background: #eed7d1d1;
+  background: #9b739cd1;
  }
  
  .cta:hover svg {

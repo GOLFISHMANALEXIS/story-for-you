@@ -154,7 +154,7 @@
   left: 0;
   display: block;
   border-radius: 50px;
-  background: #9b739cd1;
+  background: #eed7d1d1;
   width: 45px;
   height: 45px;
   transition: all 0.3s ease;
@@ -184,7 +184,7 @@
  
  .cta:hover:before {
   width: 100%;
-  background: #9b739cd1;
+  background: #eed7d1d1;
  }
  
  .cta:hover svg {
